@@ -1,0 +1,185 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin-top: 100px;
+}
+.header-section{
+    display: flex;
+    justify-content: space-around;
+}
+.sec-color{
+    background-color: #f0fff0;
+    height: 820px;
+}
+.btn-primay{
+    text-decoration: none;
+    font-size: 22px;
+    color: #fff;
+    background-color: #21B573;
+    padding: 14px 36px;
+    border-radius: 33px;
+    transition: all 0.5s;
+}
+.sign-btn:hover{
+    color: black;
+    background-color: transparent;
+    border: 2px solid #21B573;
+}
+.navbar-brand img{
+    margin-left: 250px;
+    margin-top: 30px;
+}
+.nav-item a{
+    margin-right: 50px;
+    font-size: 20px;
+}
+.navbar-collapse{
+    margin-right: 110px;
+}
+.col-md-5 h4{
+    color: #fd511a;
+    font-weight: 400;
+    line-height: 24px;
+}
+.col-md-5 h1{
+    font-size: 55px;
+    font-weight: 900;
+    line-height: 75px;
+}
+.col-md-5 p{
+    font-size: 24px;
+    line-height: 40px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+.m-top{
+    margin-top: 80px;
+}
+.text-color{
+    color: #21B573;
+}
+.card{
+    border: none;
+}
+.card-1 img{
+    width: 95px;
+    height: 105px;
+    margin-top: 20%;
+}
+.card-1{
+    background-color: #FBFFFB;
+
+}
+.card h2{
+    font-weight: 600;
+    color: #413960;
+}
+.card-1 p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #585859;
+    /* margin-left: 20px; */
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.s-shadow{
+    background-color: #fff;
+    box-shadow: 3px 3px 20px rgb(223, 223, 223);
+} 
+.card-2 img{
+    padding: 25px;
+}
+.course h1{
+    color: #413960;
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+.card-body{
+    margin-left: 30px;
+}
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+    margin-top: -25px;
+}
+.card-footer img{
+    width: 45%;
+    margin-right: -20px;
+    /* margin-top: -30px; */
+
+}
+.card h3{
+    font-size: 35px;
+    font-weight: 600;
+    color: #413960;
+}
+.card p{
+    font-size: 22px;
+    color: #585859;
+}
+.card .btn-primay{
+    line-height: 70px;
+}
+.card-footer p{
+    font-size: 16px;
+}
+.card-footer small{
+    font-size: 14px;
+    font-weight: 400;
+    color: #585859;
+}
+.Testimonial h1{
+    font-size: 45px;
+    font-weight: 900;
+}
+.Testimonial p{
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 45px;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+.Testimonial img{
+    width: 180px;
+    height: 180px;
+    margin-left: 180px;
+    margin-top: 70px;
+}
+footer{
+    background-color: #282531;
+    height: 460px;
+    margin-top: 90px;
+}
+footer p{
+    color: rgb(235, 235, 235);
+    margin-top: 70px;
+    font-size: 22px;
+    line-height: 40px;
+}
+footer small{
+    color: #CDCDCD;
+    font-size: 18px;
+    margin-top: 60px;
+    /* margin-bottom: 30px; */
+}
+footer h1{
+    font-size: 26px;
+    color: #fff;
+    font-weight: 600;
+    margin-top: 100px;
+}
+footer a{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(219, 218, 218);
+    line-height: 40px;
+}
+footer a:hover{
+    color: #fff;
+}
